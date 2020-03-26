@@ -4,7 +4,9 @@ end
 
 if speak_to_grandma == "I LOVE YOU GRANDMA!".upcase
   puts "I LOVE YOU TOO PUMPKIN"
-elsif speak_to_grandma
+elsif speak_to_grandma == "I LOVE YOU GRANDMA!".downcase
+puts "HUH? SPEAK UP, SONNY!"
+
 
 
 
