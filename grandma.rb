@@ -2,7 +2,7 @@ def speak_to_grandma(string)
   string = "I LOVE YOU GRANDMA"
 end
 
-if speak_to_grandma
+if speak_to_grandma == "I LOVE YOU GRANDMA".upcase
 
 
 
