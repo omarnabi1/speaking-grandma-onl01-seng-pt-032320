@@ -1,13 +1,11 @@
 def speak_to_grandma
-
-if string == "I LOVE YOU GRANDMA!"
-  puts "I LOVE YOU TOO PUMPKIN!"
-elsif string != string.upcase
-  puts "HUH?! SPEAK UP, SONNY!"
-elsif string.upcase
-  puts "NO, NOT SINCE 1938!"
-elsif string
-end
+  if string == "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!"
+  elsif string != string.upcase
+    puts "HUH?! SPEAK UP, SONNY!"
+  else string.upcase
+    puts "NO, NOT SINCE 1938!"
+  end
 end
 
 
