@@ -3,7 +3,8 @@ def speak_to_grandma(string)
 end
 
 if speak_to_grandma == "I LOVE YOU GRANDMA!".upcase
-  puts 
+  puts "I LOVE YOU TOO PUMPKIN"
+elsif speak_to_grandma
 
 
 
