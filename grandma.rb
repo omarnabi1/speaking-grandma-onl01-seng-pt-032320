@@ -7,6 +7,8 @@ elsif string != string.upcase
 elsif string.upcase
   puts "NO, NOT SINCE 1938!"
 elsif string
+end
+end
 
 
 
