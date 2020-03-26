@@ -1,5 +1,8 @@
 def speak_to_grandma(string)
-  string = I LOVE YOU 
+  string = "I LOVE YOU GRANDMA"
+end
+
+if speak_to_grandma
 
 
 
