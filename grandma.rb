@@ -3,10 +3,10 @@ def speak_to_grandma
 if string == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 elsif string != string.upcase
-  return "HUH?! SPEAK UP, SONNY!"
-  elsif string.upcase
-  return "NO, NOT SINCE 1938!"
-  elsif string
+  puts "HUH?! SPEAK UP, SONNY!"
+elsif string.upcase
+  puts "NO, NOT SINCE 1938!"
+elsif string
 
 
 
